@@ -157,9 +157,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![ex_no3(a)](https://github.com/user-attachments/assets/c9a98924-3342-4b95-8a09-05c5ee2652c8)
 
-![ex_no3(b)](https://github.com/user-attachments/assets/c03fe0fa-57c7-4044-8226-89eadb6756f2)
+<img src="https://github.com/user-attachments/assets/c9a98924-3342-4b95-8a09-05c5ee2652c8" width="400">
+
+<img src="https://github.com/user-attachments/assets/c03fe0fa-57c7-4044-8226-89eadb6756f2" width="400">
 
 
 
